@@ -4,7 +4,6 @@
     <title>c2young&#39;s blog</title>
     <link href="https://c2young.github.io" />
     <updated>2023-10-16T07:06:20.000Z</updated>
-    <category term="test" />
     <category term="闲聊, 发癫" />
     <entry>
         <id>https://c2young.github.io/2023/10/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
@@ -71,7 +70,6 @@
 &lt;p&gt;后来觉得这样也不是办法啊，光打 ctf 还打不出成绩，这不纯纯浪费时间，再加上我本身就入行晚了... 所以今年三月四月份开始在抽象哥的带领下接触了 src 挖掘。相比于 ctf，挖洞能更快看到成果，而且也更简单，而且如果不是顶级 ctf 选手那样可以多拿奖的话，那还是多挖洞来丰富自己的简历吧（而且挖企业 src 还能赚点小钱，虽然我还没赚到...）。之前挖的都是些没啥意义的事件型的水洞，希望接下来能挖到通用 cnvd 或者企业 src 吧。&lt;/p&gt;
 &lt;p&gt;到了暑假准备国护面试的时候，因为面经的缘故接触到了很多比较新的 Java 洞（log4j、struts2 和 shiro 等等），最近有空也要复现一下，看看能不能出个总结笔记。在区护打红队的时候好像只拿了七八百分吧，应该是有一个 sql 和好多个弱口令（平平淡淡弱口令才是真），跟企业的专业红队几万分的没得比。后面到北京国护，客户很好，虽然每天 12h 挺累的，但是还可以接受。期间被不讲武德的红队✌凌晨偷袭了好几回，被拿下的机器也蛮多（所幸客户的防守策略无敌，根本摸不到靶标），最后成功守住了靶标，期间看着原厂大哥各种应急溯源出报告，收益匪浅。&lt;/p&gt;
 &lt;p&gt;以后应该也是要多偏向实战，接触实战环境吧，ctf 比赛随缘打，至于考研还是就业，先看看吧哈哈。加油。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5CCZY%5CAppData%5CRoaming%5Cmarktext%5Cimages%5C2023-10-16-18-09-10-image.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="闲聊, 发癫" />
         <updated>2023-10-16T07:06:20.000Z</updated>

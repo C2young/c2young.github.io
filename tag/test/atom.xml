@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://c2young.github.io</id>
-    <title>c2young&#39;s blog • Posts by &#34;test&#34; tag</title>
-    <link href="https://c2young.github.io" />
-    <updated>2023-10-16T10:09:27.113Z</updated>
-    <category term="test" />
-    <category term="闲聊, 发癫" />
-</feed>
