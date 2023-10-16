@@ -1,6 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "c2young's blog",
+    "subtitle": "网络安全/红蓝对抗/漏洞挖掘/ctf比赛",
+    "icon": "https://c2young.github.io/images/favicon.ico",
     "description": "c2young的个人博客",
     "home_page_url": "https://c2young.github.io",
     "items": [
