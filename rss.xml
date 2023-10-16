@@ -5,8 +5,20 @@
         <link>https://c2young.github.io</link>
         <description>c2young的个人博客</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 16 Oct 2023 11:39:00 +0800</pubDate>
-        <lastBuildDate>Mon, 16 Oct 2023 11:39:00 +0800</lastBuildDate>
+        <pubDate>Mon, 16 Oct 2023 15:06:20 +0800</pubDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:06:20 +0800</lastBuildDate>
+        <category>test</category>
+        <item>
+            <guid isPermalink="true">https://c2young.github.io/2023/10/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+            <title>第一篇博客</title>
+            <link>https://c2young.github.io/2023/10/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+            <category>test</category>
+            <pubDate>Mon, 16 Oct 2023 15:06:20 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; test&lt;/h1&gt;
+&lt;p&gt;test&lt;/p&gt;
+&lt;p&gt;测试文字&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://c2young.github.io/2023/10/16/hello-world/</guid>
             <title>Hello World</title>
